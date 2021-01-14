@@ -1,0 +1,31 @@
+.searchBox {
+  background-color: white;
+
+  border: 1px solid lightgray;
+  border-top: 2px solid #17958d;
+  border-radius: 5px;
+}
+.searchBarDiv {
+  border-top: 1px solid lightgray;
+  border-bottom: 1px solid lightgray;
+  display: flex;
+  justify-content: center;
+}
+.searchBarDiv > div {
+  width: 40%;
+}
+.btnDiv {
+  height: 60px;
+}
+
+.searchBtn:hover {
+  color: white;
+}
+.searchBarDiv label {
+  font-weight: bold;
+}
+@media screen and (max-width: 780px) {
+  .searchBarDiv > div {
+    width: 90%;
+  }
+}
