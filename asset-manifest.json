@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/%7BGithub-repo-name%7D/static/css/main.6789c641.chunk.css",
+    "main.js": "/%7BGithub-repo-name%7D/static/js/main.35934d93.chunk.js",
+    "main.js.map": "/%7BGithub-repo-name%7D/static/js/main.35934d93.chunk.js.map",
+    "runtime-main.js": "/%7BGithub-repo-name%7D/static/js/runtime-main.3cefe79e.js",
+    "runtime-main.js.map": "/%7BGithub-repo-name%7D/static/js/runtime-main.3cefe79e.js.map",
+    "static/css/2.5b5b76b5.chunk.css": "/%7BGithub-repo-name%7D/static/css/2.5b5b76b5.chunk.css",
+    "static/js/2.750e6583.chunk.js": "/%7BGithub-repo-name%7D/static/js/2.750e6583.chunk.js",
+    "static/js/2.750e6583.chunk.js.map": "/%7BGithub-repo-name%7D/static/js/2.750e6583.chunk.js.map",
+    "static/js/3.86b9d9bf.chunk.js": "/%7BGithub-repo-name%7D/static/js/3.86b9d9bf.chunk.js",
+    "static/js/3.86b9d9bf.chunk.js.map": "/%7BGithub-repo-name%7D/static/js/3.86b9d9bf.chunk.js.map",
+    "index.html": "/%7BGithub-repo-name%7D/index.html",
+    "static/css/2.5b5b76b5.chunk.css.map": "/%7BGithub-repo-name%7D/static/css/2.5b5b76b5.chunk.css.map",
+    "static/css/main.6789c641.chunk.css.map": "/%7BGithub-repo-name%7D/static/css/main.6789c641.chunk.css.map",
+    "static/js/2.750e6583.chunk.js.LICENSE.txt": "/%7BGithub-repo-name%7D/static/js/2.750e6583.chunk.js.LICENSE.txt",
+    "static/media/IMG_3388.224e665b.jpg": "/%7BGithub-repo-name%7D/static/media/IMG_3388.224e665b.jpg",
+    "static/media/font-awesome.min.css": "/%7BGithub-repo-name%7D/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/pexels-photo-1640777.62dd558f.jpeg": "/%7BGithub-repo-name%7D/static/media/pexels-photo-1640777.62dd558f.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cefe79e.js",
+    "static/css/2.5b5b76b5.chunk.css",
+    "static/js/2.750e6583.chunk.js",
+    "static/css/main.6789c641.chunk.css",
+    "static/js/main.35934d93.chunk.js"
+  ]
+}
